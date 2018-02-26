@@ -2,13 +2,6 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Scope+One|Trocchi");
 
-/*
-	Urban by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
-/* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
@@ -49,7 +42,7 @@
 		-webkit-text-size-adjust: none;
 	}
 
-/* Box Model */
+
 
 	*, *:before, *:after {
 		-moz-box-sizing: border-box;
@@ -57,7 +50,7 @@
 		box-sizing: border-box;
 	}
 
-/* Containers */
+
 
 	.container {
 		margin-left: auto;
@@ -216,7 +209,6 @@
 
 	}
 
-/* Grid */
 
 	.row {
 		border-bottom: solid 1px transparent;
@@ -1549,7 +1541,6 @@
 
 	}
 
-/* Basic */
 
 	@-ms-viewport {
 		width: device-width;
@@ -1582,7 +1573,6 @@
 			transition: none !important;
 		}
 
-/* Type */
 
 	body {
 		background-color: #fff;
@@ -1833,7 +1823,6 @@
 		border-bottom-color: rgba(0, 0, 0, 0.1);
 	}
 
-/* Box */
 
 	.box {
 		border-radius: 4px;
@@ -1858,7 +1847,6 @@
 		border-color: rgba(0, 0, 0, 0.1);
 	}
 
-/* Button */
 
 	input[type="submit"],
 	input[type="reset"],
@@ -2041,7 +2029,6 @@
 				background-color: #ededed;
 			}
 
-/* Flex */
 
 	.flex {
 		display: -ms-flexbox;
@@ -2195,7 +2182,6 @@
 
 		}
 
-/* Form */
 
 	form {
 		margin: 0 0 2em 0;
@@ -2433,7 +2419,6 @@
 		color: #bfbfbf !important;
 	}
 
-/* Icon */
 
 	.icon {
 		text-decoration: none;
@@ -2454,7 +2439,6 @@
 			display: none;
 		}
 
-/* Image */
 
 	.image {
 		border: 0;
@@ -2518,7 +2502,7 @@
 	.video-wrapper {
 		position: relative;
 		padding-bottom: 56.25%;
-	/* 16:9 */
+
 
 		padding-top: 25px;
 		height: 0;
@@ -2532,7 +2516,6 @@
 			height: 100%;
 		}
 
-/* List */
 
 	ol {
 		list-style: decimal;
@@ -2709,7 +2692,6 @@
 		border-top-color: rgba(0, 0, 0, 0.1);
 	}
 
-/* Section/Article */
 
 	section.special, article.special {
 		text-align: center;
@@ -2741,7 +2723,6 @@
 		color: #bfbfbf;
 	}
 
-/* Tab */
 
 	ul.tab-list {
 		list-style: none;
@@ -2781,7 +2762,6 @@
 			display: flex;
 		}
 
-/* Table */
 
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
@@ -2868,7 +2848,6 @@
 		border-color: rgba(0, 0, 0, 0.1);
 	}
 
-/* Wrapper */
 
 	.wrapper {
 		padding: 6em 0 4em 0;
@@ -3346,7 +3325,6 @@
 
 		}
 
-/* Header */
 
 	body.subpage {
 		padding-top: 3.125em;
@@ -3558,7 +3536,6 @@
 
 	}
 
-/* Menu */
 
 	#menu {
 		-moz-transform: translateX(20em);
@@ -3686,7 +3663,6 @@
 
 		}
 
-/* Banner */
 
 	#banner {
 		display: -ms-flexbox;
@@ -3862,7 +3838,6 @@
 			opacity: 1;
 		}
 
-/* Footer */
 
 	#footer {
 		padding: 6em 2em 4em 2em;
